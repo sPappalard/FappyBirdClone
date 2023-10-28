@@ -29,7 +29,7 @@ public class Tubi : MonoBehaviour
             audioSource.Play(); 
             giaContato=true;
             Punti.valorePunti += 1;
-
+            //test git
         }
     }
 }
